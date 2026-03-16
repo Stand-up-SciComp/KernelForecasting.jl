@@ -1,0 +1,13 @@
+name = "KernelForecasting.jl"
+uuid = "09bef285-4b0f-432d-9a1d-0ed851ad2405"
+version = "0.1.0"
+authors = ["Rahul Manavalan"]
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+[compat]
+LinearAlgebra = "1.12.0"
+Statistics = "1.11.1"
+julia = "1.12"
